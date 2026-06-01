@@ -1,0 +1,4 @@
+grep, fin, potoki, stumienie, programowanie skryptów, prawa dostępów
+Może być napisz potok na 1 linię (polecenie)
+Może być uzupełnienie kodu
+Podstawowe przełączniki
